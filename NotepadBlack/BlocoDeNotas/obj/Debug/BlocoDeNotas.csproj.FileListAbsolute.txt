@@ -1,0 +1,10 @@
+C:\Users\jjoao\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe.config
+C:\Users\jjoao\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe
+C:\Users\jjoao\source\repos\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.pdb
+C:\Users\jjoao\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csprojAssemblyReference.cache
+C:\Users\jjoao\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Form1.resources
+C:\Users\jjoao\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Properties.Resources.resources
+C:\Users\jjoao\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\jjoao\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\jjoao\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.exe
+C:\Users\jjoao\source\repos\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocoDeNotas", "BlocoDeNotas\BlocoDeNotas.csproj", "{933E3BB9-67E4-4E35-A856-7410272B279F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933E3BB9-67E4-4E35-A856-7410272B279F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933E3BB9-67E4-4E35-A856-7410272B279F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933E3BB9-67E4-4E35-A856-7410272B279F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933E3BB9-67E4-4E35-A856-7410272B279F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8A9EB21-326F-42AE-8986-D83FCDED629D}
+	EndGlobalSection
+EndGlobal
