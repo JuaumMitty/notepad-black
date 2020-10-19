@@ -143,7 +143,7 @@ namespace BlocoDeNotas
         {
             try
             {
-                MessageBox.Show("Desenvolvido por JuaumMitty");
+                MessageBox.Show("Developed by JuaumMitty");
             }
             catch (Exception ex)
             {
@@ -163,6 +163,26 @@ namespace BlocoDeNotas
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void undoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            richTextBox1.Undo();
+        }
+
+        private void copyToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            richTextBox1.Copy();
+        }
+
+        private void pasteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            richTextBox1.Paste(); 
         }
     }
 }
